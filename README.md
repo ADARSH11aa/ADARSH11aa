@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/30132150/README.md)
+
 # Hi there 👋 I'm Adarsh Arpit
 
 <p align="center">
