@@ -1,90 +1,27 @@
+# 💫 About Me:
+I am an aspiring Software Engineer and Cybersecurity enthusiast pursuing Computer Science Engineering with a specialization in Cybersecurity. Interested in Blockchain technology, secure application development, networking, and modern web technologies.<br>Proficient in Java, Python , SQL , Solidity , Frontend development, networking fundamentals, and DSA, with strong problem-solving skills and a passion for continuous learning through projects and hands-on experience.<br>Seeking opportunities to grow and contribute in the fields of Software Development and Cybersecurity.
 
-# Hi there 👋 I'm Adarsh Arpit
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Adarsh%20Arpit&fontAlign=50&fontAlignY=40&color=0:7dd3fc,100:1e3a8a&animation=twinkling"/>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/adarsh-arpit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adarsharpit06@gmail.com) 
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?lines=CSE+Student+%7C+Cybersecurity+Specialization;Java+Python+SQL+Solidity;React+%7C+Firebase+%7C+Vercel;Building+AI+and+FinTech+Projects&center=true&width=700"/>
-</p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ADARSH11aa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ADARSH11aa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ADARSH11aa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ADARSH11aa&color=7dd3fc"/>
-<img src="https://img.shields.io/github/followers/ADARSH11aa?style=for-the-badge"/>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ADARSH11aa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 👨‍💻 Who I Am
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-```ts
-const adarsh = {
-  title: "CSE Student (Cybersecurity Specialization)",
-  stack: ["Java","Python","SQL","Solidity","React","Vite","Firebase","REST APIs","Git","GitHub","Vercel"],
-  launchedProjects: [
-    "Unified Multi-Asset Investment Portfolio Intelligence Platform",
-    "medi-iq"
-  ],
-  certifications: [],
-  status: "Learning • Building • Open Source",
-  openTo: "Internships & Collaboration"
-};
-```
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ADARSH11aa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🚀 Featured Projects
+---
+[![](https://komarev.com/ghpvc/?username=ADARSH11aa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Unified Multi-Asset Investment Portfolio Intelligence Platform
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ADARSH11aa&repo=Unified-Multi-Asset-Investment-Portfolio-Intelligence-Platform&theme=nord)](https://github.com/ADARSH11aa/Unified-Multi-Asset-Investment-Portfolio-Intelligence-Platform)
-
-| Layer | Technology |
-|---|---|
-| Frontend | React, Vite |
-| Backend | Firebase / REST APIs |
-| Deployment | Vercel |
-
-- Code: https://github.com/ADARSH11aa/Unified-Multi-Asset-Investment-Portfolio-Intelligence-Platform
-
-### medi-iq
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ADARSH11aa&repo=medi-iq&theme=nord)](https://github.com/ADARSH11aa/medi-iq)
-
-| Layer | Technology |
-|---|---|
-| Frontend | React |
-| Backend | Firebase |
-| Deployment | Vercel |
-
-- Code: https://github.com/ADARSH11aa/medi-iq
-
-## 🛠 Tech Stack
-
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=java,python,sqlite,solidity)](https://skillicons.dev)
-
-### Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,js,vite)](https://skillicons.dev)
-
-### Backend / Infra
-[![My Skills](https://skillicons.dev/icons?i=firebase,git,github)](https://skillicons.dev)
-
-### Dev Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman,vercel)](https://skillicons.dev)
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ADARSH11aa&show_icons=true&theme=nord)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ADARSH11aa&layout=compact&theme=nord)
-
-![](https://streak-stats.demolab.com?user=ADARSH11aa&theme=nord)
-
-![](https://github-profile-trophy.vercel.app/?username=ADARSH11aa&theme=nord&no-frame=true&no-bg=true&row=1)
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=ADARSH11aa&theme=nord)
-
-## 🤝 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adarsh-arpit)
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:7dd3fc,100:1e3a8a"/>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
